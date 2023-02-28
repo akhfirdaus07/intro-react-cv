@@ -24,10 +24,10 @@ class App extends Component{
         </Helmet>
         <Nav />
         <Routes>
-          <Route exact path='/'element={<Intro />} />
-          <Route exact path='/profile'element={<Profile />} />
-          <Route exact path='/idea'element={<Idea />} />
-          <Route exact path='/capabilities'element={<Capabilities />} />
+          <Route exact path='/intro-react-cv'element={<Intro />} />
+          <Route path='/profile'element={<Profile />} />
+          <Route path='/idea'element={<Idea />} />
+          <Route path='/capabilities'element={<Capabilities />} />
         </Routes>
 
         <Footer />
