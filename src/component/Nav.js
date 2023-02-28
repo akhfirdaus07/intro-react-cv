@@ -6,7 +6,7 @@ class Nav extends Component{
         
         return(
             <div className="nav">
-                <button className="button-nav"><Link to='/'>Intro</Link></button>
+                <button className="button-nav"><Link to='/intro-react-cv'>Intro</Link></button>
                 <button className="button-nav"><Link to='/profile'>Profile</Link></button>
                 <button className="button-nav"><Link to='/idea'>Idea</Link></button>
                 <button className="button-nav">< Link to='/capabilities'>Capabilities</Link></button>
