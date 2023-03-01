@@ -10,7 +10,6 @@ function Profile(){
             <div className="left">
                 <h2>About me</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias asperiores incidunt ducimus laudantium aliquid itaque corrupti tempore eos, provident quis iure eius fugit nobis praesentium aspernatur fuga! Temporibus, voluptates soluta.
-                Blanditiis dignissimos minima placeat ipsam quam quae nam, autem natus voluptas cum sapiente provident asperiores nobis officia veritatis aut recusandae maxime voluptatem quia commodi quisquam cupiditate praesentium! Harum, dignissimos dolor.
                 </p>
                 <p>- Akhmad Firdaus</p>
             </div>

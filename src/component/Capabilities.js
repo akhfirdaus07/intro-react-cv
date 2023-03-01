@@ -10,27 +10,22 @@ function Capabilities(){
                 <div className="card">
                     <h2>BRAND STRATEGY</h2>
                     <ul>
-                        <li>Lorem ipsum dolor sit amet</li>
-                        <li>Lorem ipsum dolor sit amet</li>
-                        <li>Lorem ipsum dolor sit amet</li>
-                        <li>Lorem ipsum dolor sit amet</li>
+                        <li>Lorem ipsum</li>
+                        <li>Lorem ipsum</li>
                     </ul>
                 </div>
                 <div className="card">
                     <h2>BRAND IDENTITY</h2>
                     <ul>
-                        <li>Lorem ipsum dolor sit amet</li>
-                        <li>Lorem ipsum dolor sit amet</li>
-                        <li>Lorem ipsum dolor sit amet</li>
-                        <li>Lorem ipsum dolor sit amet</li>
+                        <li>Lorem ipsum</li>
+                        <li>Lorem ipsum</li>
                     </ul>
                 </div>
                 <div className="card">
                     <h2>COMMUNICATION STRATEGY</h2>
                     <ul>
-                        <li>Lorem ipsum dolor sit amet</li>
-                        <li>Lorem ipsum dolor sit amet</li>
-                        <li>Lorem ipsum dolor sit amet</li>
+                        <li>Lorem ipsum</li>
+                        <li>Lorem ipsum</li>
                     </ul>
                 </div>
             </div>
