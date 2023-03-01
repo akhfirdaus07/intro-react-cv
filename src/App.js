@@ -11,12 +11,15 @@ import Footer from './component/Footer';
 import {Helmet} from 'react-helmet';
 import Image2 from './images/2.jpeg';
 import {Routes, Route} from 'react-router-dom';
-
+import { Grid } from '@chakra-ui/react';
 
 class App extends Component{
   render() {
     return (
-      <div className="content">
+      <Grid
+        templateRows='10vh 85vh 5vh' templateColumns='1fr'
+        align-item='stretch'
+      >
         <Helmet>
             <link rel="icon" href={Image2} />
             <title>Daus Portofolio</title>
@@ -32,7 +35,7 @@ class App extends Component{
         </Routes>
 
         <Footer />
-      </div>
+      </Grid>
     );
   };
 };
