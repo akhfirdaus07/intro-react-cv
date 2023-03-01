@@ -1,11 +1,14 @@
 import Image3 from '../images/3.png';
 import {Link} from "react-router-dom";
+import { Heading } from '@chakra-ui/react';
 
 function Idea(){
     return(
         <div className="idea yellow">
             <div className="left">
-                <h1>HELLO</h1>
+                <Heading as="h1" size="4xl">
+                    HELLO!
+                </Heading>
                 <p>I'm a web developer at Purwadhika Football Club since 2023</p>
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut voluptates quas quisquam accusamus. Explicabo velit aliquam tempora voluptate eum hic ipsam porro, facere praesentium accusantium molestiae voluptas cumque nobis accusamus!</p>
                 <button className="read-more">READ MORE</button>

@@ -1,10 +1,13 @@
 import Image2 from '../images/2.jpeg';
+import { Heading } from '@chakra-ui/react';
 
 function Profile(){
     return(
         <div className="profile white">
             <div className="top">
-                <h1>PROFILE</h1>
+                <Heading as='h1' size='4xl'>
+                PROFILE
+                </Heading>
                 <h2>I'm a web developer at Purwadhika Football Club</h2>
             </div>
             <div className="left">

@@ -12,6 +12,7 @@ import {Helmet} from 'react-helmet';
 import Image2 from './images/2.jpeg';
 import {Routes, Route} from 'react-router-dom';
 
+
 class App extends Component{
   render() {
     return (

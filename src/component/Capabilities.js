@@ -1,8 +1,12 @@
+import { Heading } from "@chakra-ui/react";
+
 function Capabilities(){
     return(
         <div className="capabilities white">
             <div className="top">
-                <h1>CAPABILITIES</h1>
+                <Heading as="h1" size="4xl">
+                    CAPABILITIES
+                </Heading>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam minus enim aliquid. Laboriosam mollitia temporibus nobis perspiciatis unde, totam libero inventore aliquid cumque at distinctio reiciendis porro, facere ex iure?
                 Ratione a eius quasi soluta facere modi pariatur mollitia cupiditate quos placeat obcaecati et nulla voluptatum recusandae architecto maxime maiores, ad quae dolor fugit. Eveniet ullam minus inventore molestias in.</p>
             </div>
